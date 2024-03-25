@@ -1,4 +1,4 @@
-![image](https://github.com/TusCang/E/assets/164821108/c6ac38b2-6baf-4d3e-9f64-08aa82f6c650)# Loot Runs 玩法、注意事項與入坑步驟
+# Loot Runs 玩法、注意事項與入坑步驟
 大家好，這裡是隸屬四門書院的助理教授神農～
 
 本串將綜合這次Loot Runs玩法（以下或簡稱lr），該如何入門，以及神農提供的一些建議。
