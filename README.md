@@ -5,7 +5,7 @@
 
 【傳送門】
 - Loot run camp 入坑步驟
-  - [入坑步驟]([E/Loot run camp 入坑步驟.md](https://github.com/TusCang/E/blob/edc8351dc6b6f3c005c72fd628b2198466a22551/Loot%20run%20camp%20%E5%85%A5%E5%9D%91%E6%AD%A5%E9%A9%9F.md))
+  - [入坑步驟](https://github.com/TusCang/E/blob/edc8351dc6b6f3c005c72fd628b2198466a22551/Loot%20run%20camp%20%E5%85%A5%E5%9D%91%E6%AD%A5%E9%A9%9F.md))
 
 - Loot run camp 機制介紹
   - 基本概念篇
