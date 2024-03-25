@@ -18,6 +18,8 @@
 
 ![image](https://github.com/TusCang/E/assets/164821108/10989632-04a1-4a97-b267-cb51ebf405d1)
 
+
+
 ## Loot run camp 入坑步驟
 在開始由玩此玩法之前，他要求須要前往位於Cinfras一旁的Silverbull Trading Company，找到Lootrun Chief （-102   -4814）進行註冊
 
