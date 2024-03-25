@@ -217,8 +217,8 @@ Missions 選擇畫面
 
 除了第一次獲得的任務之外，下次再踩淺灰之前建議先踩淺藍，會刷更多任務提供選擇。 
 
-> [!TIP]獎勵繼承
-> End Reward Sacrifice 若拿到此任務獎勵則可以選擇在當局放棄所有獎勵並繼承50% pulls數到下一輪，通常是在 reroll 用完之後還沒有好獎勵時使用。
+> [!NOTE]
+> 獎勵繼承 End Reward Sacrifice，若拿到此任務獎勵則可以選擇在當局放棄所有獎勵並繼承50% pulls數到下一輪，通常是在 reroll 用完之後還沒有好獎勵時使用。
 > 
 > 能拿到 End Reward Sacrifice 有 Redemption 跟 Ultimate Sacrife 兩種任務，故單輪最高能觸發兩次，兩次相乘會繼承75% pulls。 
 > 
