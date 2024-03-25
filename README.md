@@ -5,7 +5,7 @@
 
 【傳送門】
 - Loot run camp 入坑步驟
-  - [入坑步驟](https://github.com/TusCang/E/blob/0cb3578a6c1b365cd7b2b141003960bc908d8932/Loot%20run%20camp%20%E5%85%A5%E5%9D%91%E6%AD%A5%E9%A9%9F.md)
+  - 入坑步驟
 
 - Loot run camp 機制介紹
   - 基本概念篇
@@ -46,6 +46,6 @@
 
 而在上Master之前，基本上信標優先挑紫色，感覺快打不過在拿點藍色即可，其他顏色可有可無，在上Master之前用處不太大。
 
-[回到目錄](https://github.com/TusCang/E/blob/edc8351dc6b6f3c005c72fd628b2198466a22551/README.md)
+回到目錄
 
 ＝＝＝＝＝＝＝＝＝＝ 
