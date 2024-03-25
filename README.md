@@ -5,7 +5,7 @@
 
 【傳送門】
 - Loot run camp 入坑步驟
-  - 入坑步驟
+  - [入坑步驟](E/Loot run camp 入坑步驟.md)
 
 - Loot run camp 機制介紹
   - 基本概念篇
