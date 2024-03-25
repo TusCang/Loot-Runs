@@ -24,6 +24,6 @@
 
 而在上Master之前，基本上信標優先挑紫色，感覺快打不過在拿點藍色即可，其他顏色可有可無，在上Master之前用處不太大。
 
-回到目錄
+[回到目錄](https://github.com/TusCang/E/blob/edc8351dc6b6f3c005c72fd628b2198466a22551/README.md)
 
 ＝＝＝＝＝＝＝＝＝＝ 
