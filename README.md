@@ -1,3 +1,6 @@
 # E
 test
-[test](https://imgur.com/s6tI5SQ.png)
+
+> [!tip]
+> lol
+<!-- This content will not appear in the rendered Markdown -->
